@@ -2,7 +2,7 @@
   "name": "GPS ക്യാമറ & മാപ്പ്",
   "short_name": "GPS Camera",
   "description": "GPS Location Camera with Notes and QR Code",
-  "start_url": "./gps_camera_map.html",
+  "start_url": "index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
